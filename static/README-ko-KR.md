@@ -35,26 +35,26 @@
  <h4>노드 목록: (여기에는 최대 20개 노드만 표시됩니다. 다른 무료 노드는 앱에서 받을 수 있습니다.)</h4>
     
 ```
-# 533. >>@oneclickvpnkeys::HK (延迟: 280 ms)
-# 1760. RU VLESS-98 | free-nodes (延迟: 1499 ms)
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@151.242.69.201:443?&security=tls&sni=sni.111000.v6.army&type=ws&headerType=none&host=sni.111000.v6.army&path=%2F%3Fhttps%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#Iran
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.33:8880?note=---Telegram---@Argo_VPN1---Telegram---@Argo_VPN1---Telegram---@Argo_VPN1---Telegram---@Argo_VPN1---&mode=gun&security=none&encryption=none&type=grpc#Mexico
-vless://cc976b15-418b-4f0b-89ce-cd685ffbaf20@62.141.42.201:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=odbiaA-5s0mkehtfrf2SBcrKAMDP1sFjxKHJYdDCKgc&security=reality&sid=81&sni=google.com&type=tcp#Germany
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@199.34.228.160:443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&security=tls&sni=sni.111000.v6.navy&type=ws#United+States
-# 1159. 🇳🇱[www.v2cross.com] Outline VPN-NL-12217995 (延迟: 744 ms)
-# 1121. >>@oneclickvpnkeys::IT (延迟: 673 ms)
-# 1068. 🇻🇳VN-103.186.154.143-4907 (延迟: 569 ms)
-# 1809. >>@oneclickvpnkeys::GB (延迟: 1629 ms)
-vless://monacoVPN@83.228.228.44:22?type=tcp&encryption=none&path=/@monacoVPN@monacoVPN@monacoVPN@monacoVPN&headerType=http&security=none#Switzerland
-trojan://8r%3C%5B9%27l6hAO%238ZQi@139.99.124.165:443?allowInsecure=1&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram🇨🇳 @WangCai2#Singapore
-vless://fe665bb7-a558-42bc-9ba7-a59288ee4b93@104.26.13.31:80?security=none&encryption=none&host=floral-term-d21f.wafajax493.workers.dev&type=ws#
-# 1873. 🇴🇲[www.v2cross.com] V2Ray Vless-OM-11880139 (延迟: 2407 ms)
-# 1343. B - 🇺🇸 US 40 TG: @nodpai (延迟: 987 ms)
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.40.147.138:2096?allowInsecure=1&encryption=none&fp=chrome&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#United+States
-vless://e6d8d743-a9bc-48c9-be99-8f3cc94d16e1@ako.pagate.top:443?allowInsecure=0&sni=ako.pagate.top&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#South+Korea
-# 106. >>@oneclickvpnkeys::US (延迟: 89 ms)
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.27:38388#Vietnam
-# 1120. 🏁ZZ_464 (延迟: 672 ms)
+# 1627. [53031] - Telegram : @V2All (延迟: 1334 ms)
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.74.152:443?allowInsecure=1&encryption=none&host=sni.111000.dynv6.net&security=tls&sni=sni.111000.dynv6.net&type=ws#United+States
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.38:38388#Vietnam
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.17.72.206:2053?encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#
+vless://3c52e091-6714-4915-949f-2149fe69951b@v2ray.simspeedup.com:80?type=ws&host=aIs.SpEeDtEsT.nEt&path=/ws#Thailand
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@38.60.171.254:990#Indonesia
+trojan://8r%3C%5B9%27l6hAO%238ZQi@95.179.253.213:8443?sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram🇨🇳+@WangCai2#Germany
+# 500. 🇹🇼TW_108 (延迟: 257 ms)
+vless://7506fe3e-7e78-497c-bd01-db9d0be4d7e3@104.19.35.49:443?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&host=filter.elitesilver002.workers.dev&path=%2F&security=tls&sni=filter.elitesilver002.workers.dev&type=ws#
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@188.214.157.30:990#Morocco
+trojan://8r%3C%5B9%27l6hAO%238ZQi@31.58.50.110:8443?sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram🇨🇳 @WangCai2#Iran
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.125.191.89:8443?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#France
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.183:38388#Vietnam
+# 1863. >>@oneclickvpnkeys::NL (延迟: 2239 ms)
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.80:38388#Vietnam
+# 715. 🇻🇳VN-103.186.154.189-4763 (延迟: 352 ms)
+# 139. 🫎13@oneclickvpnkeys (延迟: 96 ms)
+# 1070. >>@v2ray_configs_pool::US (延迟: 571 ms)
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.17.111.43:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.v6.army&path=/?https://t.me/wangcai2🇨🇳=&security=tls&sni=sni.111000.v6.army&type=ws#
+# 1265. 未知 SS-29 | free-nodes (延迟: 859 ms)
 ```
 <h5>상위 노드(일부)의 영구 구독 주소: https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ko-KR</h5>
  <p>위 구독 주소의 QR 코드</p>

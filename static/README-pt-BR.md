@@ -35,26 +35,26 @@
  <h4>Lista de nós: (No máximo 20 nós são exibidos aqui. Outros nós gratuitos estão disponíveis no app.)</h4>
     
 ```
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@156.225.72.238:2096?allowInsecure=1&encryption=none&fp=chrome&host=sni.jpmj.dev&path=%2F&security=tls&sni=sni.jpmj.dev&type=ws#EUA
-# 273. ⛲7@oneclickvpnkeys (延迟: 124 ms)
-# 952. 🇻🇳VN-103.186.154.59-4823 (延迟: 453 ms)
-# 367. 🫎42@oneclickvpnkeys (延迟: 157 ms)
-trojan://8r%3C%5B9%27l6hAO%238ZQi@137.184.228.85:443?allowInsecure=1&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram🇨🇳 @WangCai2#EUA
-# 1328. 🇫🇷[www.v2cross.com] V2Ray Vless-FR-12723523 (延迟: 975 ms)
-# 1225. 🇭🇰HK_68 (延迟: 795 ms)
-trojan://humanity@8.6.112.0:443?path=/assignment&security=tls&host=www.multiplydose.com&type=ws&sni=www.multiplydose.com#%C3%81ustria
-# 575. 🇻🇳VN-103.186.154.246-5189 (延迟: 301 ms)
-# 856. 🇺🇸US_23 | 1.5MB/s (延迟: 403 ms)
-# 500. 🇹🇼TW_108 (延迟: 257 ms)
-# 842. 🇻🇳VN-103.186.154.27-5205 (延迟: 397 ms)
-# 1462. 🫎59@oneclickvpnkeys (延迟: 1182 ms)
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.103:38388#Vietn%C3%A3
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.17.72.206:8443?allowInsecure=1&encryption=none&fp=chrome&host=sni.111000.dynv6.net&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&sni=sni.111000.dynv6.net&type=ws#
-# 26. >>@oneclickvpnkeys::US (延迟: 70 ms)
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.87:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#Fran%C3%A7a
-# 882. 🇻🇳VN-103.186.155.70-5026 (延迟: 412 ms)
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.72:38388#Vietn%C3%A3
-vless://d37a75db-76b6-4db8-b213-0d5b044d138d@104.18.12.149:443?path=/&security=tls&encryption=none&insecure=1&host=hio-awx.pages.dev&type=ws&allowInsecure=1&sni=hio-awx.pages.dev#
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.210.151.165:2053?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#Fran%C3%A7a
+# 1420. >>@oneclickvpnkeys::DE (延迟: 1095 ms)
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@209.38.101.190:443?allowInsecure=1&encryption=none&host=sni.111000.dns.army&security=tls&sni=sni.111000.dns.army&type=ws#EUA
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@167.68.42.191:443?encryption=none&host=sni.my111000.tech&security=tls&sni=sni.my111000.tech&type=ws#EUA
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.178:443#Reino+Unido
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.144:8080#Holanda
+# 1341. 🇩🇪[www.v2cross.com] V2Ray Vless-DE-626300 (延迟: 987 ms)
+# 1129. B - 🇺🇸 US 35 TG: @nodpai (延迟: 690 ms)
+# 1338. 🇲🇦MA-188.214.157.58-0348 (延迟: 983 ms)
+vless://629d2ccc-3a2a-4dd3-83d2-86b25fc8783e@89.106.83.39:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ&security=reality&sid=23000000&sni=www.apple.com&type=tcp#Alemanha
+# 1811. >>@oneclickvpnkeys::DE (延迟: 1634 ms)
+# 997. 🏁ZZ_451 (延迟: 494 ms)
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.91.249.9:443?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2%3D&security=tls&sni=sni.111000.indevs.in&type=ws#Ar%C3%A1bia+Saudita
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@165.22.80.22:443?allowInsecure=1&encryption=none&host=sni.latonyamadeline.ndjp.net&security=tls&sni=sni.latonyamadeline.ndjp.net&type=ws#Alemanha
+# 1130. 🇺🇸 US美国(mibei77.com 米贝节点分享) (延迟: 692 ms)
+# 499. 🇺🇸US_138 (延迟: 256 ms)
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.38:38388#Vietn%C3%A3
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.191.0:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.latonyamadeline.ndjp.net&path=/?https://t.me/wangcai2🇨🇳=&security=tls&sni=sni.latonyamadeline.ndjp.net&type=ws#
+# 121. >>@oneclickvpnkeys::US (延迟: 92 ms)
+# 866. 🏁ZZ_270 (延迟: 407 ms)
 ```
 <h5>O endereço de assinatura permanente do nó superior (parte): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_pt-BR</h5>
  <p>Código QR do endereço de assinatura acima</p>

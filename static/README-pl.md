@@ -35,26 +35,26 @@
  <h4>Lista węzłów: (Tutaj wyświetlanych jest maksymalnie 20 węzłów. Pozostałe bezpłatne węzły są dostępne w aplikacji.)</h4>
     
 ```
-# 251. >>@oneclickvpnkeys::US (延迟: 119 ms)
-# 1526. >>@oneclickvpnkeys::FR (延迟: 1264 ms)
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.42:38388#Vietnam
-# 937. 🇬🇧GB_51 (延迟: 444 ms)
-# 216. >>@oneclickvpnkeys::US (延迟: 110 ms)
-# 850. 🇻🇳VN-103.186.154.56-4780 (延迟: 400 ms)
-# 1065. 🇰🇷[www.v2cross.com] V2Ray Vless-KR-324625 (延迟: 567 ms)
-# 567. 🇻🇳VN-103.186.154.247-4964 (延迟: 297 ms)
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.67.42:443?allowInsecure=1&encryption=none&host=sni.111000.dynv6.net&security=tls&sni=sni.111000.dynv6.net&type=ws#United+States
-vless://a01daac7-1e65-4645-854d-b47d226f6b08@auth.vercel.com:443?path=/&security=tls&encryption=none&insecure=0&host=y6-3cj.pages.dev&type=ws&allowInsecure=0&sni=y6-3cj.pages.dev#
-# 919. C - 🇭🇰 HK 22 TG: @nodpai (延迟: 432 ms)
-# 1737. >>@oneclickvpnkeys::FR (延迟: 1456 ms)
-hysteria2://c5533e6c-6d4f-4b01-b1c8-4fb952631e73@bwg.11022.net:25004?alpn=h3&sni=bwg.11022.net#United+States
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.17:38388#Vietnam
-# 799. 🇻🇳VN-103.186.154.219-4800 (延迟: 378 ms)
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.17.185.207:443?allowInsecure=1&alpn=http%2F1.1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.dynv6.net&path=%2F%3Fproxyip%3Dip.111000.de5.net%253A443&security=tls&sni=sni.111000.dynv6.net&type=ws#
-# 287. >>@oneclickvpnkeys::US (延迟: 128 ms)
-# 1166. v2raygulf (延迟: 750 ms)
-# 2. 🇯🇵 JP | SS | @outlinereleasedkey #1 (延迟: 38 ms)
-# 583. 🇻🇳VN-103.186.154.241-4938 (延迟: 304 ms)
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.36:38388#Vietnam
+# 698. 美國_5 (延迟: 343 ms)
+# 302. >>@oneclickvpnkeys::US (延迟: 132 ms)
+# 519. >>@oneclickvpnkeys::US (延迟: 273 ms)
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.91.248.38:8443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&security=tls&sni=sni.111000.v6.navy&type=ws#Saudi+Arabia
+# 537. TW SS-09 | free-nodes (延迟: 283 ms)
+# 1774. >>@oneclickvpnkeys::SE (延迟: 1534 ms)
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg0011499tl.cybervena.com:50099#Taiwan
+# 33. >>@oneclickvpnkeys::US (延迟: 71 ms)
+# 1717. 🇺🇸[www.v2cross.com] V2Ray Vless-US-9059885 (延迟: 1423 ms)
+trojan://8r%3C%5B9%27l6hAO%238ZQi@172.236.154.50:443?allowInsecure=1&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram🇨🇳 @WangCai2#United+States
+# 661. 🇻🇳VN-103.186.155.80-4901 (延迟: 332 ms)
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.40.151.191:2096?allowInsecure=1&encryption=none&host=sni.my111000.tech&security=tls&sni=sni.my111000.tech&type=ws#United+States
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.91.249.154:443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&security=tls&sni=sni.111000.v6.navy&type=ws#Saudi+Arabia
+# 30. >>@oneclickvpnkeys::US (延迟: 71 ms)
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@223.165.4.173:989#Taiwan
+trojan://8r%3C%5B9%27l6hAO%238ZQi@150.109.11.223:443?allowInsecure=1&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram🇨🇳 @WangCai2#Singapore
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.131.210.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#The+Netherlands
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.153.70:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.latonyamadeline.ndjp.net&path=%2F%3Fhttps%253A%252F%252Ft.me%252Fwangcai2%25F0%259F%2587%25A8%25F0%259F%2587%25B3%3D&security=tls&sni=sni.latonyamadeline.ndjp.net&type=ws#
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.64.222:443?allowInsecure=1&encryption=none&host=sni.111000.dynv6.net&security=tls&sni=sni.111000.dynv6.net&type=ws#United+States
 ```
 <h5>Stały adres subskrypcji górnego węzła (część): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_pl</h5>
  <p>Kod QR dla adresu subskrypcji powyżej</p>

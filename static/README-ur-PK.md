@@ -35,26 +35,26 @@
  <h4>نوڈ کی فہرست: (یہاں زیادہ سے زیادہ 20 نوڈز دکھائے جاتے ہیں۔ دیگر مفت نوڈز ایپ میں حاصل کریں)</h4>
     
 ```
-# 700. 🇯🇵[www.v2cross.com] V2Ray Vless-JP-13941070 (延迟: 344 ms)
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4ODllNzA1NS1lMTc0LTQzYTItOTAwNC1hOGY1NWY1ZDk3ODQ=@gw.lydwan.com:35601#United+Kingdom
-# 1134. 🇵🇹PT_98 (延迟: 704 ms)
-trojan://8r%3C%5B9%27l6hAO%238ZQi@31.58.50.110:8443?sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram🇨🇳 @WangCai2#Iran
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.128.183.90:443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&security=tls&sni=sni.111000.v6.navy&type=ws#France
-# 218. >>@oneclickvpnkeys::US (延迟: 110 ms)
-vless://981fca81-5be1-41f8-ac9b-d138e8109943@155.46.167.231:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=babayaga-6i7.pages.dev&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2540WangCai2%3D&security=tls&sni=babayaga-6i7.pages.dev&type=ws#United+States
-vless://bf3e8944-8d26-47de-8748-b9aa74cce974@140.238.100.35:40721?security=reality&sni=yahoo.com&fp=chrome&pbk=TUZgwzcTvoROSbgnqMh3WorXVMxQNIF2zsEM39FQbyk&sid=df8611c07d&type=tcp&path=%2f#United+Kingdom
-# 1275. 🇬🇧GB-82.38.31.122-0278 (延迟: 874 ms)
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.8:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#France
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.142.120.191:443?encryption=none&host=sni.my111000.tech&security=tls&sni=sni.my111000.tech&type=ws#Russia
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.78:38388#Vietnam
-# 508. 🇰🇷KR_3 | 2.3MB/s (延迟: 266 ms)
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.33:38388#Vietnam
+# 1246. 🇬🇧[www.v2cross.com] Outline VPN-GB-795751 (延迟: 827 ms)
+# 82. >>@oneclickvpnkeys::US (延迟: 84 ms)
+# 509. >>@oneclickvpnkeys::US (延迟: 267 ms)
+# 1482. >>@oneclickvpnkeys::US (延迟: 1220 ms)
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.146:38388#Vietnam
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.28:38388#Vietnam
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@138.68.152.227:2053?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.v6.rocks&path=%2F%3Fhttps%253A%252F%252Ft.me%252FWangCai2%25F0%259F%2587%25A8%25F0%259F%2587%25B3%3D&security=tls&sni=sni.111000.v6.rocks&type=ws#United+Kingdom
-# 1543. 🇳🇱[www.v2cross.com] V2Ray Vless-NL-1151324 (延迟: 1270 ms)
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.151:8080#The+Netherlands
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.206.12.138:2096?allowInsecure=1&encryption=none&fp=chrome&host=sni.111000.indevs.in&path=%2F&security=tls&sni=sni.111000.indevs.in&type=ws#Australia
-# 1456. 🇷🇺[www.v2cross.com] V2Ray Vless-RU-13119436 (延迟: 1172 ms)
+# 435. B - 🇯🇵 JP 13 TG: @nodpai (延迟: 203 ms)
+trojan://8r%3C%5B9%27l6hAO%238ZQi@139.180.220.7:443?allowInsecure=1&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram🇨🇳 @WangCai2#Singapore
+# 996. 🇻🇳VN-103.186.154.145-5201 (延迟: 493 ms)
+# 1066. 🇻🇳VN-103.186.154.155-4947 (延迟: 567 ms)
+# 504. t.me/ConfigFori  -  Config 65733 (延迟: 261 ms)
+# 1773. 🇩🇪 t.me/Natrixo BB (延迟: 1526 ms)
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.232:38388#Vietnam
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.91.248.215:8443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&security=tls&sni=sni.111000.v6.navy&type=ws#Saudi+Arabia
+# 生成时间: 2026-05-13 09:47:43
+# 587. 🇭🇰[www.v2cross.com] V2Ray Vless-HK-132103 (延迟: 306 ms)
+# 667. 🇻🇳VN-103.186.155.77-4869 (延迟: 334 ms)
+vless://bafacd98-136a-4530-838d-4e5c51838dac@146.185.142.231:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=firefox&host=juzi8186.qea.ccwu.cc&path=%2Fforums%2Ffaq%2Fjuzibaipiao&security=tls&sni=juzi8186.qea.ccwu.cc&type=ws#The+Netherlands
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.209:38388#Vietnam
+# 912. 🇺🇸[www.v2cross.com] Outline VPN-US-13041776 (延迟: 430 ms)
 ```
 <h5>اوپری نوڈ کا مستقل رکنیت کا پتہ (حصہ): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ur-PK</h5>
  <p>اوپر سبسکرپشن ایڈریس کے لیے QR کوڈ</p>

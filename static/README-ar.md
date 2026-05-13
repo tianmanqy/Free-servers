@@ -35,26 +35,26 @@
  <h4>قائمة العقد: (يتم عرض 20 عقدة كحد أقصى هنا. تتوفر العقد المجانية الأخرى في التطبيق)</h4>
     
 ```
-# 235. >>@configshub2::US (延迟: 114 ms)
-# 97. >>@oneclickvpnkeys::US (延迟: 88 ms)
-trojan://8r%3C%5B9%27l6hAO%238ZQi@212.192.15.182:443?allowInsecure=1&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram🇨🇳 @WangCai2#Hong+Kong
-# 553. 🇩🇪 t.me/Natrixo BB (延迟: 291 ms)
-vless://e4fc4761-154f-490e-bbaa-b4fa193f1073@45.148.31.0:15855?type=ws&security=none&path=/#Finland
-# 489. >>@oneclickvpnkeys::US (延迟: 245 ms)
-# 65. 🌱8@oneclickvpnkeys (延迟: 80 ms)
-# 1171. 🇺🇸US_6 | 2.2MB/s (延迟: 757 ms)
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@91.186.219.47:443?encryption=none&security=tls&sni=sni.111000.v6.rocks&insecure=0&allowInsecure=0&type=ws&host=sni.111000.v6.rocks&path=/?ed=2560&https://t.me/WangCai2🇨🇳#United+States
-# 27. >>@oneclickvpnkeys::US (延迟: 71 ms)
-# 1784. 🇵🇱PL_2 | 1.1MB/s (延迟: 1555 ms)
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@138.124.59.215:443?encryption=none&security=tls&sni=sni.111000.v6.rocks&type=ws&host=sni.111000.v6.rocks&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#Estonia
-# 1640. >>@oneclickvpnkeys::NL (延迟: 1345 ms)
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@de.vpnbase.net:80?encryption=none&host=de.vpnbase.net&path=%2Fhttp&security=none&type=ws#France
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.54.20.59:8881#Chile
-# 1186. >>@v2ray_configs_pool::US (延迟: 768 ms)
+# 1658. 🇫🇮[www.v2cross.com] vless-FI (延迟: 1358 ms)
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.131.211.238:2096?allowInsecure=1&encryption=none&host=sni.jpmj.dev&security=tls&sni=sni.jpmj.dev&type=ws#The+Netherlands
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.33:38388#Vietnam
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.45:38388#Vietnam
+# 1412. 🇭🇰[www.v2cross.com] V2Ray Vless-HK-127516 (延迟: 1077 ms)
+# 1584. 🇫🇷[www.v2cross.com] V2Ray Vless-FR-11376514 (延迟: 1297 ms)
+vless://b818576e-951a-4a9c-879a-d32611b977ad@8.39.125.169:8443?allowInsecure=1&encryption=none&fp=chrome&host=cocobaby.pages.dev&path=%2F&security=tls&sni=cocobaby.pages.dev&type=ws#Malaysia
+# 385. >>@oneclickvpnkeys::US (延迟: 167 ms)
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.186:8080#United+Kingdom
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.26:38388#Vietnam
+# 1075. 🇮🇳IN_2 | 1.2MB/s (延迟: 578 ms)
+# 616. 🇻🇳VN-103.186.154.67-5192 (延迟: 317 ms)
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.17:38388#Vietnam
+vless://ae0dd58e-e222-40bf-84ae-365a97532737@158.51.110.12:443?sni=pagescm.freen5.cc.cd&type=ws&host=pagescm.freen5.cc.cd&path=/showfp=chrome&security=tls#United+States
+# 1492. 🇹🇷[www.v2nodes.com] V2Ray Vmess-TR-12268463 (延迟: 1231 ms)
+# 719. 🏁ZZ_335 (延迟: 353 ms)
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@114.129.43.238:2096?allowInsecure=1&encryption=none&host=sni.jpmj.dev&security=tls&sni=sni.jpmj.dev&type=ws#Singapore
 # 1258. B - 🇸🇬 SG 05 TG: @nodpai (延迟: 842 ms)
-trojan://7aXwJPnpAJ@yespaintstudio.rav-kraski.ru:50824?security=tls&sni=yespaintstudio.rav-kraski.ru&insecure=0&allowInsecure=0&type=tcp&headerType=none#Spain
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.166:38388#Vietnam
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.220:38388#Vietnam
+# 1346. 🐝51@oneclickvpnkeys (延迟: 992 ms)
+# 889. 🏁ZZ_443 (延迟: 418 ms)
 ```
 <h5>عنوان الاشتراك الدائم للعقدة العليا (جزء): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ar</h5>
  <p>رمز الاستجابة السريعة لعنوان الاشتراك أعلاه</p>

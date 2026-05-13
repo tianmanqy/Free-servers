@@ -35,26 +35,26 @@
  <h4>Daftar node: (Maksimal 20 node ditampilkan di sini. Node gratis lainnya bisa didapatkan di aplikasi.)</h4>
     
 ```
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.40:38388#Vietnam
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.45:38388#Vietnam
-# 1544. 🇱🇹 t.me/Natrixo BB (延迟: 1270 ms)
-# 1618. 🇬🇧GB_1 | 1.2MB/s (延迟: 1329 ms)
-# 898. 🏁ZZ_223 (延迟: 425 ms)
-# 1373. 🇫🇷FR_9 | 1.2MB/s (延迟: 1025 ms)
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.30:38388#Vietnam
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.240:38388#Vietnam
-vless://43488128-319e-f480-64ea-0acdc712e2a8@77.81.98.70:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=kkRsTNjRh_XrrTM6eZllllldzoL5Z9IqlBkDtmYLMhw&security=reality&sid=9b4fc5a116efd6c8&sni=www.aliexpress.com&type=tcp#Romania
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.185.26:2096?allowInsecure=1&encryption=none&fp=chrome&host=sni.111000.indevs.in&path=%2F&security=tls&sni=sni.111000.indevs.in&type=ws#
-# 1236. B - 🇺🇸 US 21 TG: @nodpai (延迟: 812 ms)
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@103.116.7.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#Japan
-# 1291. >>@FOX_VPN66::ZA (延迟: 907 ms)
-# 1243. 🇳🇴[www.v2cross.com] Outline VPN-NO-12205778 (延迟: 824 ms)
-# 914. 🇻🇳VN-103.186.154.140-4995 (延迟: 431 ms)
-# 401. >>@oneclickvpnkeys::US (延迟: 178 ms)
-# 987. 🏁ZZ_409 (延迟: 485 ms)
-# 100. >>@oneclickvpnkeys::US (延迟: 89 ms)
-vless://981fca81-5be1-41f8-ac9b-d138e8109943@147.78.140.231:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=babayaga-6i7.pages.dev&path=/?Telegram🇨🇳@WangCai2=&security=tls&sni=babayaga-6i7.pages.dev&type=ws#Bulgaria
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.164.158.138:2096?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=sni.111000.indevs.in&path=%2F&security=tls&sni=sni.111000.indevs.in&type=ws#Armenia
+# 1808. >>@oneclickvpnkeys::FR (延迟: 1626 ms)
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.133.140.79:443#United+States
+# 1869. >>@oneclickvpnkeys::FR (延迟: 2345 ms)
+# 157. >>@oneclickvpnkeys::US (延迟: 98 ms)
+# 105. 🇸🇬[www.v2cross.com] V2Ray Vless-SG-7456 (延迟: 89 ms)
+# 1621. >>@oneclickvpnkeys::GB (延迟: 1331 ms)
+# 1215. B - 🇸🇬 SG 12 TG: @nodpai (延迟: 785 ms)
+# 272. 🇸🇬[www.v2cross.com] V2Ray Vless-SG-4567 (延迟: 124 ms)
+# 475. 🫎17@oneclickvpnkeys (延迟: 236 ms)
+# 1225. 🇭🇰HK_68 (延迟: 795 ms)
+# 548. >>@oneclickvpnkeys::US (延迟: 290 ms)
+# 745. 🏁ZZ_286 (延迟: 361 ms)
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@103.90.75.41:2053?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#India
+# 格式: 每行一个配置链接，按延迟从低到高排序
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.9:38388#Vietnam
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.168:38388#Vietnam
+# 1671. >>@oneclickvpnkeys::NL (延迟: 1370 ms)
+# 26. >>@oneclickvpnkeys::US (延迟: 70 ms)
+# 1138. DE SS-21 | free-nodes (延迟: 711 ms)
+vmess://eyJhZGQiOiAiNDcuMjUwLjE1My4xMzYiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiY2hyb21lIiwgImhvc3QiOiAiNDcuMjUwLjE1My4xMzYiLCAiaWQiOiAiNzI0OWMzYmUtODVhZC00NmZiLWFiOTgtYzRhMDdmNGE3MjRkIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAicG9ydCI6ICIyNjE4MSIsICJwcyI6ICJNYWxheXNpYSIsICJzY3kiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
 ```
 <h5>Alamat langganan permanen node atas (bagian): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_id</h5>
  <p>Kode QR untuk alamat berlangganan di atas</p>

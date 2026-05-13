@@ -35,26 +35,26 @@
  <h4>नोड सूची: (यहां अधिकतम 20 नोड दिखाए जाते हैं। अन्य मुफ्त नोड ऐप में प्राप्त करें)</h4>
     
 ```
-# 769. 🇻🇳VN-103.186.155.51-4960 (延迟: 368 ms)
-vless://8338171d-2ea7-4015-bdea-492f3d5d4e60@5.182.36.56:45886?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=zJeLZDPHoHMcAzBJh38tSavofNlkBrpADFx9jVVPil0&sid=94f9&type=tcp&headerType=none#Switzerland
-vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.146.37:80?encryption=none&host=tt.andishehparenting.com&path=%2F&security=none&type=ws#United+States
-trojan://8r%3C%5B9%27l6hAO%238ZQi@31.57.63.63:2053?sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram🇨🇳 @WangCai2#Iran
-# 1525. 🇩🇪DE_6 | 1.3MB/s (延迟: 1264 ms)
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.13.149:8443?encryption=none&host=sni.111000.dynv6.net&path=/?Telegram🇨🇳+@WangCai2&security=tls&sni=sni.111000.dynv6.net&type=ws#
-# 1219. 🇮🇳[www.v2cross.com] V2Ray Vless-IN-7709949 (延迟: 791 ms)
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@34.180.125.14:443?sni=gogo.vks.dpdns.org&type=ws&host=gogo.vks.dpdns.org&path=/fp=chrome&security=tls#United+States
-vless://bafacd98-136a-4530-838d-4e5c51838dac@cf7.danfeng.eu.org:2087?encryption=none&security=tls&sni=juzi8186.qea.ccwu.cc&fp=firefox&insecure=0&allowInsecure=0&ech=encryptedsni.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=juzi8186.qea.ccwu.cc&path=%2Ffavs%2Fcollect%2Fjuzibaipiao%3Fed%3D2560#
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.243:38388#Vietnam
-# 310. 🇸🇬[www.v2cross.com] V2Ray Vless-SG-3429 (延迟: 134 ms)
-# 1197. 🇳🇱[www.v2cross.com] Outline VPN-NL-5935006 (延迟: 774 ms)
-# 47. B - 🇺🇸 US 03 TG: @nodpai (延迟: 75 ms)
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080#United+Kingdom
-# 509. >>@oneclickvpnkeys::US (延迟: 267 ms)
-# 1719. >>@oneclickvpnkeys::GB (延迟: 1427 ms)
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@130.250.137.238:2096?allowInsecure=1&encryption=none&host=sni.jpmj.dev&security=tls&sni=sni.jpmj.dev&type=ws#United+States
-# 610. 🏁ZZ_436 (延迟: 314 ms)
-vless://629d2ccc-3a2a-4dd3-83d2-86b25fc8783e@89.106.83.4:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=chrome&security=reality&pbk=V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ&sid=23#Germany
-# 417. Fast Deploy Your Own Worker For Creation Of Configs : https://telegraph.rayan-config.workers.dev/translate (延迟: 187 ms)
+# 619. 🏁ZZ_209 (延迟: 318 ms)
+# 1539. >>@oneclickvpnkeys::DE (延迟: 1269 ms)
+# 823. 🏁ZZ_224 (延迟: 387 ms)
+# 1002. B - 🇸🇬 SG 16 TG: @nodpai (延迟: 503 ms)
+# 1205. 🇺🇸 Join+Telegram:@Farah_VPN 🇺🇸 (延迟: 778 ms)
+# 1310. @appsooner کانال تلگرام 🕊️ (延迟: 947 ms)
+# 697. 🏁ZZ_450 (延迟: 342 ms)
+# 362. >>@oneclickvpnkeys::US (延迟: 156 ms)
+# 761. 🇻🇳VN-103.186.155.104-4771 (延迟: 364 ms)
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.52:38388#Vietnam
+# 1026. 🇻🇳VN-103.186.154.158-4806 (延迟: 523 ms)
+# 1638. 🫎24@oneclickvpnkeys (延迟: 1343 ms)
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.231:38388#Vietnam
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.128.179.45:8443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&security=tls&sni=sni.111000.v6.navy&type=ws#France
+# 1226. 🇬🇧GB-82.38.31.61-0212 (延迟: 796 ms)
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.74.203:443?allowInsecure=1&encryption=none&host=sni.111000.dynv6.net&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%3D&security=tls&sni=sni.111000.dynv6.net&type=ws#United+States
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.226.166.176:443?allowInsecure=1&encryption=none&host=sni.111000.dns.army&security=tls&sni=sni.111000.dns.army&type=ws#The+Netherlands
+ss://YWVzLTI1Ni1nY206ZjM0NTc5ZDAxNDhiMjU4MQ==@185.22.154.104:50129#Russia
+# 243. >>@oneclickvpnkeys::US (延迟: 116 ms)
+vless://394f6981-a782-4779-9a85-e6cf22935d93@uk1.fromblancwithlove.com:8443?allowInsecure=1&encryption=none&security=tls&type=tcp#Brazil
 ```
 <h5>ऊपरी नोड (भाग) का स्थायी सदस्यता पता: https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_hi</h5>
  <p>उपरोक्त सदस्यता पते के लिए QR कोड</p>

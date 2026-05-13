@@ -35,26 +35,26 @@
 <h4>Node list: (A maximum of 20 nodes are shown here. More free nodes are available in the app.)</h4>
     
 ```
-# 531. 🇩🇪DE_1 | 1.3MB/s (延迟: 279 ms)
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.67.38:443?allowInsecure=1&encryption=none&host=sni.111000.dynv6.net&security=tls&sni=sni.111000.dynv6.net&type=ws#United+States
-# 1795. B - 🇺🇸 US 17 TG: @nodpai (延迟: 1593 ms)
-# 1079. 🇻🇳VN-103.186.154.154-4988 (延迟: 582 ms)
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.74.190:443?allowInsecure=1&encryption=none&host=sni.111000.dynv6.net&path=%2F&security=tls&sni=sni.111000.dynv6.net&type=ws#United+States
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@p141.panda001.net:4652#South+Korea
-# 852. B - 🇭🇰 HK 12 TG: @nodpai (延迟: 400 ms)
-# 1100. 🇺🇸US_12 | 3.6MB/s (延迟: 619 ms)
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.15:38388#Vietnam
-# 48. >>@oneclickvpnkeys::US (延迟: 75 ms)
-# 433. >>@oneclickvpnkeys::US (延迟: 202 ms)
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.206:38388#Vietnam
-# 124. >>@oneclickvpnkeys::US (延迟: 93 ms)
-# 501. >>@oneclickvpnkeys::US (延迟: 257 ms)
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.131.208.191:2096?allowInsecure=1&encryption=none&host=sni.my111000.tech&path=%2F&security=tls&sni=sni.my111000.tech&type=ws#The+Netherlands
-ss://YWVzLTI1Ni1nY206dW1Xd29RSkVKR2Y3NFNMZQ==@149.102.149.207:80#United+Kingdom
-trojan://8r%3C%5B9%27l6hAO%238ZQi@207.246.122.197:2053?sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram🇨🇳+@WangCai2#United+States
-# 757. >>@oneclickvpnkeys::US (延迟: 364 ms)
-# 1856. >>@oneclickvpnkeys::DE (延迟: 2103 ms)
-# 971. 🏁ZZ_233 (延迟: 470 ms)
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.133.140.79:443#United+States
+# 794. 🏁ZZ_393 (延迟: 377 ms)
+# 931. >>@oneclickvpnkeys::US (延迟: 439 ms)
+vless://981fca81-5be1-41f8-ac9b-d138e8109943@43.169.19.179:443?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=babayaga-6i7.pages.dev&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2B%2540WangCai2%3D&security=tls&sni=babayaga-6i7.pages.dev&type=ws#Singapore
+# 983. 🇺🇸[www.v2cross.com] Outline VPN-US-763107 (延迟: 484 ms)
+# 469. >>@oneclickvpnkeys::US (延迟: 229 ms)
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@14.102.228.191:443?encryption=none&host=sni.my111000.tech&security=tls&sni=sni.my111000.tech&type=ws#United+States
+# 1258. B - 🇸🇬 SG 05 TG: @nodpai (延迟: 842 ms)
+# 737. 🇭🇰[www.v2cross.com] Trojan VPN-HK-12310723 (延迟: 358 ms)
+trojan://8r%3C%5B9%27l6hAO%238ZQi@80.209.242.70:2053?sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram🇨🇳+@WangCai2#United+States
+vless://629d2ccc-3a2a-4dd3-83d2-86b25fc8783e@89.106.83.54:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ&security=reality&sid=23&sni=www.apple.com&type=tcp#Germany
+# 1439. 🏁ZZ_307 (延迟: 1132 ms)
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.164:38388#Vietnam
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.117:38388#Vietnam
+vless://cb213db5-803d-49dd-a7e2-46d938af0751@104.18.3.11:2082?encryption=none&host=amiroo-l43dac88-v2.amiroo-d8b.workers.dev&security=none&type=ws#
+# 516. 🏁ZZ_444 (延迟: 272 ms)
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.37.133:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.v6.army&path=%2F%3Fhttps%253A%252F%252Ft.me%252Fwangcai2%25F0%259F%2587%25A8%25F0%259F%2587%25B3%3D&security=tls&sni=sni.111000.v6.army&type=ws#
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@193.176.190.183:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.dns.army&path=%2F%3Fhttps%253A%252F%252Ft.me%252FWangCai2%25F0%259F%2587%25A8%25F0%259F%2587%25B3%3D&security=tls&sni=sni.111000.dns.army&type=ws#Russia
+vless://36a857e4-f3d4-43aa-8b90-d7da849da989@002.inc-electrocell-001-002.workers.dev:443?allowInsecure=1&alpn=http%2F1.1&encryption=none&host=002.inc-electrocell-001-002.workers.dev&path=%2FeyJqdW5rIjoib0RnakxTZUZvOSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&security=tls&sni=002.Inc-ElectROcElL-001-002.WoRKERS.DEV&type=ws#
+# 873. 🇻🇳VN-103.186.154.190-4814 (延迟: 409 ms)
 ```
 <h5>Permanent subscription address of the node above (part): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_en</h5>
 <p>QR code of the subscription address above</p>
